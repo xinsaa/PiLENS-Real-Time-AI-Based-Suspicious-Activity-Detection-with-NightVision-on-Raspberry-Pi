@@ -1,6 +1,6 @@
-# VigilantEye
-**Ai-based Suspicious Activity Detection System**
+# VigilantEye AI-Based Suspicious Activity Detection System
+**An IoT-based AI system for real-time suspicious activity detection using YOLO, CNN, LSTM on Raspberry Pi with nightvision camera. Features multi-mode alerts, secure remote access, and selective storage**
 </br>
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-gi 
+</br>
+
+### Overview
