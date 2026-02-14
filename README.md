@@ -16,7 +16,7 @@ This project aims to provide a low-cost, portable solution for enhanced security
 
 </br>
 
-![Motivational Scenario](Figures/Motivational Scenario.jpg)
+![Motivational Scenario](Figures/Motivational_Scenario.jpg)
 
 </br>
 
