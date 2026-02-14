@@ -1,10 +1,10 @@
-# VigilantEye AI-Based Suspicious Activity Detection System
+# PiLENS: Raspberry Pi–Based Deep Learning Enhanced Nightvision Surveillance System
 **An IoT-based AI system for real-time suspicious activity detection using YOLO, CNN, LSTM on Raspberry Pi with nightvision camera. Features multi-mode alerts, secure remote access, and selective storage**
 </br>
 </br>
 
 ## Overview
-VigilantEye is an AI-powered security system designed for realtime monitoring and detection of suspicious activities in low-light or nighttime environments. Built on Raspberry Pi, it uses computer vision and machine learning models to analyze video feeds from a nightvision camera. The system detects persons or intrusions and triggers alerts, making it ideal for military, border security, or civil applications.
+PiLENS is an AI-powered security system designed for realtime monitoring and detection of suspicious activities in low-light or nighttime environments. Built on Raspberry Pi, it uses computer vision and machine learning models to analyze video feeds from a nightvision camera. The system detects persons or intrusions and triggers alerts, making it ideal for military, border security, or civil applications.
 
 Key components include:
 - Hardware: Raspberry Pi 5 (8GB RAM) as the core processor, Raspberry Pi Camera Module 3 (12MP NOIR with IR LEDs for nightvision), LEDs and buzzer for local alerts.
