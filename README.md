@@ -214,6 +214,21 @@ The architecture emphasizes low-cost, portability, and security, making it suita
   - Mode 1: Basic person alert with immediate email (time, location, pic/video clip).
   - Mode 2: Intruder detection using face recognition, with red LED and buzzer alerts.
   - Mode 3: Advanced suspicious activity analysis via YOLO + CNN + LSTM.
+</br>
+
+![Program_1_Flowchart](Figures/Program 1 Flowchart.jpg)
+
+### This is the Mode 1 
+
+<br>
+
+![Program_2_Flowchart](Figures/Program 2 Flowchart.jpg)
+
+### This is the Mode 2
+
+<br>
+
+
 - **Nightvision Capability**: 12MP NOIR camera with IR LEDs for low-light environments.
 - **Secure Remote Access**: Tailscale for hack-proof worldwide viewing, with Flask-based MJPEG streaming[](http://[IP]:8000/video).
 - **Selective Storage**: Only saves suspicious clips to optimize storage.
